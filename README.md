@@ -1,4 +1,4 @@
-# Perputakaan-Pintar
+# Perpustakaan-Pintar
 Username : Admin
 Password : 1
 
